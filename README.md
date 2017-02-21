@@ -5,3 +5,6 @@ Steps to run the server:
 - Update the npm dependencies by running: npm install
 - Execute the server, using: npm start
 
+Do not forget to add all your sources in the local git repo.
+Only the sources that will be in the repo will be examined.
+
